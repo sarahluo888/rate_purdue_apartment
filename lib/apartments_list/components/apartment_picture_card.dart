@@ -11,7 +11,7 @@ class ApartmentPictureCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-        height: size.height * 0.6,
+        height: size.height * 0.7,
         width: size.height * 0.4,
         color: Colors.purple.shade100,
         child: Column(
