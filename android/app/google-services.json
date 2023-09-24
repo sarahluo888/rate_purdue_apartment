@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183502417816",
+    "project_id": "rate-my-apartment",
+    "storage_bucket": "rate-my-apartment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183502417816:android:a81a7de8f62a00926a05ed",
+        "android_client_info": {
+          "package_name": "com.purdueflutter.rate_purdue_apartment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183502417816-k3uckcler65hq2ho2fiqo1136d891elr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQdB2qPlDvzt5MsfZ9G3SjBmIL0OmPGd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183502417816-k3uckcler65hq2ho2fiqo1136d891elr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

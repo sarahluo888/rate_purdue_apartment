@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>183502417816-a0hg8e26kakrmmi8kmja9s03p00uf299.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.183502417816-a0hg8e26kakrmmi8kmja9s03p00uf299</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA5W-X3rsJFUoeE7jN2qX-RzMddPtHFj2M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>183502417816</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.purdueflutter.ratePurdueApartment</string>
+	<key>PROJECT_ID</key>
+	<string>rate-my-apartment</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rate-my-apartment.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:183502417816:ios:f0afa7d05c82ac0a6a05ed</string>
+</dict>
+</plist>
